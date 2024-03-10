@@ -1,0 +1,56 @@
+body{
+    background: #CCC;
+}
+#Header a:hover{
+    color: #FFF;
+}
+#bg-img{
+    background: url('C:/Users/SHREYAS M/OneDrive/Pictures/Screenshots/library.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height:500px;
+}
+#About{
+    margin-top: -200px;
+}
+#About .fa{
+    color:#FFF;
+}
+#About span{
+    padding: 10px 20px 10px 20px;
+}
+#About hr{
+    border-width: 3px;
+    margin-top: 6px;
+}
+
+#Skills span{
+    padding: 10px 20px 10px 20px;
+
+}
+
+#Skills hr{
+    border-width: 3px;
+    margin-top: 6px;
+}
+
+#Experiences span{
+    padding: 10px 20px 10px 20px;
+
+}
+
+#Experiences hr{
+    border-width: 3px;
+    margin-top: 6px;
+}
+#Experiences .card{
+    border-top: 03px;
+}
+#Contact span{
+    padding: 10px 20px 10px 20px;
+}
+#Contact hr{
+    border-width: 3px;
+    margin-top: 6px;
+}
+
